@@ -21,10 +21,10 @@ live demo https://hsimao.github.io/jquery-count-down-timer
 ### 自訂參數isActive: true
 自動添加.js-count-active class 將“秒”包住, 可針對該class設置樣式
     <span class="js-count-active">30</span>
-ex:
 
+### ex:
     .js-count-active {
         font-size: 30px;
-    font-weight: bold;
+        font-weight: bold;
         color: #f1c40f;
     }
